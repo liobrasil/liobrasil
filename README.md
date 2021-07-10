@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🌱 I'm currently learning MERN stack at Reacteur.io. 
+🌱 I'm currently learning MERN stack at Reacteur.io:
+JavaScript Git Node.js Express.js MongoDB React React native NPM Heroku Postman
 
 <!--
 **liobrasil/liobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
