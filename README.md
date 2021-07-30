@@ -3,7 +3,30 @@
 🌱 I'm currently learning MERN stack at Reacteur.io:
 
 JavaScript Git Node.js Express.js MongoDB React React native NPM Heroku Postman.
-Let's code !!!
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+
+# Bienvenue sur mon Git !
+
+##### [Who I am](https://www.linkedin.com/in/lionellimol/) 
+
+Web & Mobile Developer • Mechanical & Material Engineer • Enthusiastic person  
+
+##### What I'm Learning
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 <!--
 **liobrasil/liobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
