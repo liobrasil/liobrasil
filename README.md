@@ -4,9 +4,6 @@
 
 JavaScript Git Node.js Express.js MongoDB React React native NPM Heroku Postman.
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-
-
 # Bienvenue sur mon Git !
 
 ##### [Who I am](https://www.linkedin.com/in/lionellimol/) 
