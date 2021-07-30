@@ -21,6 +21,8 @@ Web & Mobile Developer • Mechanical & Material Engineer • Enthusiastic perso
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 
+_Feel free to visit my profile on [Linkedin](https://www.linkedin.com/in/lionellimol/)._
+
 <!--
 **liobrasil/liobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
