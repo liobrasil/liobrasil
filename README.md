@@ -1,14 +1,10 @@
-### Hi there 👋
-
-🌱 I'm currently learning MERN stack at Reacteur.io:
-
-JavaScript Git Node.js Express.js MongoDB React React native NPM Heroku Postman.
-
 # Bienvenue sur mon Git !
 
 ##### [Who I am](https://www.linkedin.com/in/lionellimol/) 
 
 Web & Mobile Developer • Mechanical & Material Engineer • Enthusiastic person  
+
+🌱 I'm currently learning MERN stack at Reacteur.io:
 
 ##### What I'm Learning
 
