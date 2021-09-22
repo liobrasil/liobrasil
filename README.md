@@ -2,11 +2,9 @@
 
 ##### [Who I am](https://www.linkedin.com/in/lionellimol/) 
 
-Web & Mobile Developer • Mechanical & Material Engineer • Block chain Enthusiastic.
+🌱 I've been a Mechanical & Material Engineer. Now I'm a Web and Mobile Developer and Block chain Enthusiastic.
 
-🌱 I'm currently learning MERN stack at Reacteur.io:
-
-##### What I'm Learning
+##### Here's my stack !
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
