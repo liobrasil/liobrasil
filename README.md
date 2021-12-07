@@ -1,11 +1,12 @@
-# Bienvenue sur mon Git !
+t# Bienvenue sur mon Git !
 
 ##### [Who I am](https://www.linkedin.com/in/lionellimol/) 
 
-🌱 I've been a Mechanical & Material Engineer. Now I'm a Web and Mobile Developer and Block chain Enthusiastic.
+🌱 I'm a Web and Mobile Developer and Block chain Enthusiastic. I've experience in Flow Blockchain Ecosystem (NFT & DapperLabs)
 
 ##### Here's my stack !
 
+![onflow](https://user-images.githubusercontent.com/86023228/145105074-5ebe4699-0f8c-4401-9a60-42f22a02e168.png)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
