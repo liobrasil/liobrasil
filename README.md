@@ -2,7 +2,7 @@ Welcome on my Github !
 
 ##### [Who I am](https://www.linkedin.com/in/lionellimol/) 
 
-🌱 I'm a Web and Mobile Developer and Block chain Enthusiastic. I've experience in Flow Blockchain Ecosystem (NFT & DapperLabs)
+🌱 I'm a Web and Mobile Developer and Blockchain Enthusiastic. I've experience in Flow Blockchain Ecosystem (NFT & DapperLabs)
 
 ##### Here's my stack !
 
